@@ -1,10 +1,12 @@
-TriMatical
-=========
+
+#TriMatical
+
+
 
 
 
 ---
- Pet linear delta printer project, frame components from MiniTech profile.
+ Pet linear delta printer project, frame components from MiniTec profile.
 Goal has been to minimize amount of custom parts and to use mostly commercially available components.
 
  Frame profile is MiniTec 45x32mm (20.1055), 90 degree angle fasteners Power-Lock (21.1018). Central triangles are fixed with single 8mm hex bolt and torsionally locked. Belt runs on smooth side and is rerouted for motor pulley with 2 additional idlers. With reinforced central fixators, frame should scale to two cubic meter volume without problems. 
