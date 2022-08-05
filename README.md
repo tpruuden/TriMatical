@@ -16,9 +16,11 @@ Goal has been to minimize amount of custom parts and to use mostly commercially 
 
 ---
 
- Hobi lineaar-deltaprinter, mille eesmärgiks oli minimeerida osade arvu ning kasutada võimalikult palju kommertstootena saadavaid komponente, eelistades Eestis kohapealt leitavat.
+ Hobi lineaar-deltaprinter, mille eesmÃ¤rgiks oli minimeerida osade arvu ning kasutada vÃµimalikult palju kommertstootena saadavaid komponente, eelistades Eestis kohapealt leitavat.
  
- Raami profiilsüsteem on MiniTec 45x32mm (20.1055), nurgakinnitustes kasutatud Power-Lock-e (21.1018), tsentraalsed tähtühendused on väändefikseeritud ja kinnitatud ühe 8mm poldiga. Rihm jookseb tagaküljel, mootori veorullile tagasipöördeks kasutatakse kahe lisarulli. Tugevdatud tähtühendustega võiks printeri töömaht olla skaleeritav kahele kuupmeetrile. 
+ Raami profiilsÃ¼steem on MiniTec 45x32mm (20.1055), nurgakinnitustes kasutatud Power-Lock-e (21.1018), tsentraalsed tÃ¤htÃ¼hendused on vÃ¤Ã¤ndefikseeritud ja kinnitatud Ã¼he 8mm poldiga. Rihm jookseb tagakÃ¼ljel, mootori veorullile tagasipÃ¶Ã¶rdeks kasutatakse kahe lisarulli. Tugevdatud tÃ¤htÃ¼hendustega vÃµiks printeri tÃ¶Ã¶maht olla skaleeritav kahele kuupmeetrile.
+ 
+ Placeholder 2022
 
 ---
 Kinematics sample on Youtube:
